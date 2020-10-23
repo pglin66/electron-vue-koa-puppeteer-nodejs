@@ -1,0 +1,12 @@
+{
+  "executablePath": "C:\\Users\\Administrator\\AppData\\Local\\google\\Chrome\\Application\\chrome.exe",
+  "openUrl": "https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount%3Fnc%3D1&dsh=S822232092%3A1603343213942969&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp",
+  "openUrl":"https://accounts.google.com/signin/v2/identifier",
+  "excelPath": "d://demo.xlsx",
+  "country": "saudiarabia",
+  "axiosTimeout": "30000",
+  "numberKey":"ea78d92b41d44f919ba403ad4d72bd23",
+  "getnumberTotal":"10",
+  "getcodeTotal": "15",
+  "ip911S5": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_qthtx3o42rhi22\\FileStorage\\File\\2020-10\\911S5\\911S5\\911S5 2018-0910\\ProxyTool\\AutoProxyTool.exe"
+}
